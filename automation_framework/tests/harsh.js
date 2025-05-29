@@ -5,4 +5,5 @@ function test(){
         console.log(x);
     }
     console.log(10);
+    console.log("prince testing ");
 }
