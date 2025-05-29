@@ -10,4 +10,6 @@ function test(){
     console.log("prince changed ");
     console.log("the changes written in the prince branch");
     console.log("this changes is done in price");
+    console.log("this is tracked");
+    
 }
