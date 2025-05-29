@@ -60,6 +60,7 @@ def login_function(driver:webdriver, url:str ,username:str, password:str) -> Non
     submit_button.click()
     
     time.sleep(10)
+    print("harsh")
 
     # the driver close the website after 30 second 
     # write your logic here
